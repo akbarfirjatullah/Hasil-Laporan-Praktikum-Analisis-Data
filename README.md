@@ -14,61 +14,50 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Membaca dataset
-data = pd.read_csv('nilai_siswa.csv')
+data = pd.read_csv('D:/CODING2EPIK/Practice Projects/PYTHON/Analysis/nilai_siswa.csv')
 
-# Tampilkan Informasi Data
 print("=== INFORMASI DATA ===")
 data.info()
 print("\n")
 
-# Tampilkan 5 data pertama
 print("=== 5 BARIS PERTAMA ===")
 print(data.head())
 print("\n")
 
-# Tampilkan statistik deskriptif
 print("=== STATISTIK DESKRIPTIF ===")
 print(data.describe())
 print("\n")
 
-# Hitung rata-rata, median, dan modus
 print("=== UKURAN STATISTIK ===")
 print("Rata-rata:", data['Nilai'].mean())
 print("Median:", data['Nilai'].median())
 print("Modus:", data['Nilai'].mode()[0])
 print("\n")
 
-# Tampilkan nilai per mata pelajaran - Matematika
 print("=== NILAI MATEMATIKA ===")
 matematika = data[data['Matpel'] == 'Matematika']
 print(matematika)
 print("\n")
 
-# Bahasa Inggris
 print("=== NILAI BAHASA INGGRIS ===")
 bahasa_inggris = data[data['Matpel'] == 'Bahasa Inggris']
 print(bahasa_inggris)
 print("\n")
 
-# Bahasa Indonesia
 print("=== NILAI BAHASA INDONESIA ===")
 bahasa_indonesia = data[data['Matpel'] == 'Bahasa Indonesia']
 print(bahasa_indonesia)
 print("\n")
 
-# Produktif
 print("=== NILAI PRODUKTIF ===")
 produktif = data[data['Matpel'] == 'Produktif']
 print(produktif)
 print("\n")
 
-# Tampilkan nilai maksimum dan minimum per mata pelajaran
 print("=== NILAI MAKSIMUM DAN MINIMUM PER MATA PELAJARAN ===")
 print(data.groupby('Matpel')['Nilai'].agg(['max', 'min']))
 print("\n")
 
-# Buat grafik batang rata-rata nilai per mapel
 print("Membuat diagram batang...")
 rata = data.groupby('Matpel')['Nilai'].mean()
 rata.plot(kind='bar')
@@ -79,7 +68,6 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
-# Buat diagram boxplot
 print("Membuat boxplot...")
 sns.boxplot(x='Matpel', y='Nilai', data=data)
 plt.title('Sebaran Nilai per Mata Pelajaran')
