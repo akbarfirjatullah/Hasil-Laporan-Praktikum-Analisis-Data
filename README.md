@@ -1,4 +1,4 @@
-**LAPORAN PRAKTIKUM ANALISIS DATA & VISUALISASI DATA**
+## **LAPORAN PRAKTIKUM ANALISIS DATA & VISUALISASI DATA**
 
 ## **Identitas**
 - **Mata Pelajaran:** Koding Kecerdasan Artifisial
@@ -191,7 +191,8 @@ Produktif          90   75
 
 ### **1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data?**
 
-**Jawaban:** Dalam kegiatan analisis dan visualisasi data ini, saya mempelajari banyak hal baru, terutama terkait penggunaan library Python seperti Pandas untuk manipulasi data, serta Matplotlib dan Seaborn untuk membuat grafik dan visualisasi statistik lanjutan. Saya juga memahami pentingnya statistik deskriptif seperti mean, median, modus, dan standar deviasi untuk menggambarkan karakteristik data. Selain itu, saya belajar melakukan grouping dan aggregation menggunakan fungsi groupby, yang membantu dalam menemukan nilai maksimum, minimum, atau rata-rata berdasarkan kategori tertentu. Kemampuan membaca dan menginterpretasikan visualisasi seperti boxplot juga menjadi hal baru, termasuk memahami konsep outlier, kuartil, dan sebaran data. Dari kegiatan ini, saya menyadari pentingnya data-driven decision making, di mana keputusan bisa dibuat secara lebih objektif berdasarkan hasil analisis. Secara keseluruhan, saya memahami alur lengkap seorang data analyst, mulai dari membaca data, eksplorasi, analisis statistik, hingga visualisasi hasil.
+**Jawaban:** Dalam kegiatan analisis dan visualisasi data ini saya mempelajari banyak hal baru terutama terkait penggunaan library Python seperti Pandas untuk manipulasi data serta Matplotlib dan Seaborn untuk membuat grafik dan visualisasi statistik lanjutan Saya juga memahami pentingnya statistik deskriptif seperti mean median modus dan standar deviasi untuk menggambarkan karakteristik data Selain itu saya belajar melakukan grouping dan aggregation menggunakan fungsi groupby yang membantu dalam menemukan nilai maksimum minimum atau rata-rata berdasarkan kategori tertentu Kemampuan membaca dan menginterpretasikan visualisasi seperti boxplot juga menjadi hal baru termasuk memahami konsep outlier kuartil dan sebaran data Dari kegiatan ini saya menyadari pentingnya data-driven decision making di mana keputusan bisa dibuat secara lebih objektif berdasarkan hasil analisis Secara keseluruhan saya memahami alur lengkap seorang data analyst mulai dari membaca data eksplorasi analisis statistik hingga visualisasi hasil
+
 ---
 
 ### **2. Kesulitan apa yang kamu alami dalam membuat grafik?**
