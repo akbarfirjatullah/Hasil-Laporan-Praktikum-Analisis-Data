@@ -141,6 +141,20 @@ Matematika         98   85
 Produktif          90   75
 ```
 
+### **6. Visualisasi Data**
+
+**Diagram Batang - Rata-Rata Nilai per Mata Pelajaran:**
+
+![Bar Chart](screenshot_bar_chart.png)
+*Keterangan: Grafik menunjukkan rata-rata nilai setiap mata pelajaran*
+
+**Boxplot - Sebaran Nilai per Mata Pelajaran:**
+
+![Boxplot](screenshot_boxplot.png)
+*Keterangan: Boxplot menunjukkan distribusi, median, dan outlier nilai per mata pelajaran*
+
+---
+
 ## **📈 Analisis dan Pertanyaan**
 
 ### **1. Mapel mana yang memiliki rata-rata nilai tertinggi?**
