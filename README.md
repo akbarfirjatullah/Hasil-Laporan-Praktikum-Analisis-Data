@@ -145,13 +145,11 @@ Produktif          90   75
 
 **Diagram Batang - Rata-Rata Nilai per Mata Pelajaran:**
 
-![Bar Chart](screenshot_bar_chart.png)
-*Keterangan: Grafik menunjukkan rata-rata nilai setiap mata pelajaran*
+![Bar Chart](https://github.com/akbarfirjatullah/Hasil-Laporan-Praktikum-Analisis-Data/blob/main/Bar%20Chart%20-%20Praktikum.jpg?raw=true)
 
 **Boxplot - Sebaran Nilai per Mata Pelajaran:**
 
-![Boxplot](screenshot_boxplot.png)
-*Keterangan: Boxplot menunjukkan distribusi, median, dan outlier nilai per mata pelajaran*
+![Boxplot](https://github.com/akbarfirjatullah/Hasil-Laporan-Praktikum-Analisis-Data/blob/main/Boxplot%20-%20Praktikum.jpg)
 
 ---
 
