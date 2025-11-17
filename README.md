@@ -141,31 +141,17 @@ Matematika         98   85
 Produktif          90   75
 ```
 
-### **6. Visualisasi Data**
-
-**Diagram Batang - Rata-Rata Nilai per Mata Pelajaran:**
-
-![Bar Chart](screenshot_bar_chart.png)
-*Keterangan: Grafik menunjukkan rata-rata nilai setiap mata pelajaran*
-
-**Boxplot - Sebaran Nilai per Mata Pelajaran:**
-
-![Boxplot](screenshot_boxplot.png)
-*Keterangan: Boxplot menunjukkan distribusi, median, dan outlier nilai per mata pelajaran*
-
----
-
 ## **📈 Analisis dan Pertanyaan**
 
 ### **1. Mapel mana yang memiliki rata-rata nilai tertinggi?**
 
-**Jawaban:** Mata pelajaran **Matematika** memiliki rata-rata nilai tertinggi yaitu sekitar **91.5**. Hal ini menunjukkan bahwa siswa memiliki pemahaman yang sangat baik dalam mata pelajaran Matematika dan kemampuan numerik mereka cukup kuat.
+**Jawaban:** Mata pelajaran **Matematika** memiliki rata-rata nilai tertinggi yaitu sekitar **98**. 
 
 ---
 
 ### **2. Mapel mana yang memiliki nilai terendah?**
 
-**Jawaban:** Mata pelajaran **Bahasa Indonesia** memiliki nilai terendah yaitu **75**. Ini mengindikasikan bahwa ada siswa yang mengalami kesulitan dalam mata pelajaran Produktif dan memerlukan bimbingan tambahan untuk meningkatkan pemahamannya.
+**Jawaban:** Mata pelajaran **Produktif** memiliki nilai terendah yaitu **75**. 
 
 ---
 
